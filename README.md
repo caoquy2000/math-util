@@ -13,4 +13,3 @@ popular math method such as: sqrt(), getFactorial() in this repo
 [Email](mailto:caohoanghuy2000@gmail.com)
 
 #### © 2020 by Hoang Quy | FPT University, HCMC
-![Image of Yaktocat](./51e80f492b90d5ce8c81.jpg)
